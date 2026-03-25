@@ -6,8 +6,8 @@
 
 ## 📸 Capturas de Pantalla
 
-> *Aquí puedes insertar la imagen de tu interfaz con el fondo `image_0.png`*
-> `![Preview](https://tu-enlace-a-la-imagen.png)`
+
+<img width="940" height="945" alt="RetroWave Downloader_windows" src="https://github.com/user-attachments/assets/ba28b59f-2ec4-4d63-868e-213175be6bc1" />
 
 -----
 
