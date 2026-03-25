@@ -49,5 +49,4 @@ sudo dpkg -i dist/retrowave-downloader_1.0.0_all.deb
 Este proyecto está bajo la Licencia MIT. Úsalo para el bien, para el neón y para llenar tu disco duro de vídeos épicos.
 
 -----
-
-**¿Te gustaría que añada una sección de "Solución de Problemas" explicando lo del Firewall por si alguien lo instala a mano?** 🕶️💎🚀
+🕶️💎🚀
